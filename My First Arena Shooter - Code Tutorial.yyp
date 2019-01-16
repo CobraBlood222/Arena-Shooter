@@ -245,6 +245,14 @@
                 "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "fc677a03-1eac-4443-9931-8bb1937ce9f8",
+            "Value": {
+                "id": "2f5d9a64-6ea3-444c-984d-09fed85d4dd4",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
+            }
         }
     ],
     "script_order": [
