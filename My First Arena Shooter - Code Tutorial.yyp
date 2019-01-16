@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "9797af43-342d-4fa8-932d-520a33d051d8",
+            "Value": {
+                "id": "6498cea4-3649-4d13-88b0-0a43328a6bb7",
+                "resourcePath": "objects\\obj_enemyspawn\\obj_enemyspawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "988b5246-fb2e-4765-9877-f27912b42ed8",
             "Value": {
                 "id": "a506b163-5d44-414e-bb33-820bf5379b54",
@@ -196,6 +204,14 @@
                 "id": "08546d51-17d0-4d04-a2e9-72a19f7567b2",
                 "resourcePath": "views\\bca31cf5-dc03-4f70-a11f-f344b9282b6d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bd18ed06-c0bc-4724-a191-1a89223d89d6",
+            "Value": {
+                "id": "2866e909-c192-4130-80ee-876139f6e025",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
